@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/nilf_leet?bgColor=fff)
+
 <!--
 **i-holo/i-holo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
